@@ -1,0 +1,9 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mole_down_animation"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/mole_down" android:duration="100" />
+    <item android:drawable="@drawable/mole_down" android:duration="100" />
+    <!-- Add more frames as needed -->
+
+</animation-list>
