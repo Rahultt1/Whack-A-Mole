@@ -3,9 +3,10 @@
 
 ![Game Preview]
 
-<img src="https://github.com/user-attachments/assets/2e80ac21-5389-478f-a8b0-5fe984a7f570" alt="Game Preview" width="360"/>
+
 
 <img src="https://github.com/user-attachments/assets/0510ce7c-5b8f-4af3-8b0a-cafe5c75d80b" alt="Game Screenshot" width="360"/>
+<img src="https://github.com/user-attachments/assets/2e80ac21-5389-478f-a8b0-5fe984a7f570" alt="Game Preview" width="360"/>
 
 ---
 
