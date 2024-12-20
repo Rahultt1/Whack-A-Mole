@@ -1,12 +1,13 @@
 # **🎯 Whack-a-Mole Game**  
 *Test your reflexes in this classic, fun-filled game!*  
 
-![Game Preview]
+![Game Preview](https://github.com/user-attachments/assets/2e80ac21-5389-478f-a8b0-5fe984a7f570)
 
-![Screenshot_20241220-223713](https://github.com/user-attachments/assets/2e80ac21-5389-478f-a8b0-5fe984a7f570)
+<img src="https://github.com/user-attachments/assets/2e80ac21-5389-478f-a8b0-5fe984a7f570" alt="Game Preview" width="360"/>
 
----![Screenshot_20241220-223701](https://github.com/user-attachments/assets/0510ce7c-5b8f-4af3-8b0a-cafe5c75d80b)
+<img src="https://github.com/user-attachments/assets/0510ce7c-5b8f-4af3-8b0a-cafe5c75d80b" alt="Game Screenshot" width="360"/>
 
+---
 
 ## **🔜 About the Game**  
 **Whack-a-Mole** is an engaging and fast-paced game designed to test your speed and accuracy. The objective is simple—whack as many moles as you can before time runs out! Perfect for all ages, this game is sure to keep you entertained for hours.  
@@ -47,7 +48,7 @@
 
 ## **🛠️ Built With**  
 - **Languages**: Kotlin ,SQLite  
-- **Frameworks/Libraries**: [Kotlin Coreroutines]  
+- **Frameworks/Libraries**: [Kotlin Coroutines]  
 - **Tools**: [Android Studio]  
 
 ---
@@ -62,7 +63,6 @@ Contributions are always welcome!
 
 ## **💌 Contact**  
 For feedback or inquiries, feel free to connect:  
-- **Email**: tharindatheekshana0@gmail.com 
-
+- **Email**: tharindatheekshana0@gmail.com  
 
 ---
