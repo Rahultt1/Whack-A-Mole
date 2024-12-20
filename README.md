@@ -1,7 +1,7 @@
 # **🎯 Whack-a-Mole Game**  
 *Test your reflexes in this classic, fun-filled game!*  
 
-![Game Preview](https://github.com/user-attachments/assets/2e80ac21-5389-478f-a8b0-5fe984a7f570)
+![Game Preview]
 
 <img src="https://github.com/user-attachments/assets/2e80ac21-5389-478f-a8b0-5fe984a7f570" alt="Game Preview" width="360"/>
 
